@@ -63,7 +63,7 @@ const Experience = () => {
       id: 9,
       src: gcp,
       title: "GCP",
-      style: "shadow-yellow-400",
+      style: "shadow-orange-400",
     },
     
   ];
